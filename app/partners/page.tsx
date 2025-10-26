@@ -30,7 +30,7 @@ const Partners = () => {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-primary to-accent py-20 text-primary-foreground">
+      <section className="bg-linear-to-br from-emerald-600 via-teal-600 to-cyan-600 py-20 text-primary-foreground">
         <div className="container mx-auto px-4 text-center">
           <h1 className="mb-4 text-4xl font-bold md:text-5xl">
             Join the &apos;Low Oil Certified&apos; Program
